@@ -1,0 +1,28 @@
+Today is Sunday November 6th 2022 and I have the following advancement
+
+TO START A GIT PROJECT
+Mkdir 
+
+Type Git init to change it to git folder
+
+git status to confirm a git directory done
+
+
+create a git file in the new folder
+
+Type touch and the name of the file you want
+
+then type Git status to check
+
+Type Git add to make the file trackable in git form-so we now have "GIT FOLDER
+"GIT FILE" in the folder. when file is added it becomes git trackable and ready to commit, 
+
+Then press "vi and the name of the file" if you want to type into the new file
+
+Press "i" to starting typing and press "esc" key to leave
+
+Then continue with git add and create git repository and get ready to push to the remote repo and get reviewer after pull request.
+
+
+Thank you God for this understanding
+
